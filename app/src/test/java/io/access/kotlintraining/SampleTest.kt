@@ -16,6 +16,6 @@ class SampleTest {
 
     @Test
     fun testHello() {
-        // TODO: implement to call hello function
+        println("Hello world!")
     }
 }
