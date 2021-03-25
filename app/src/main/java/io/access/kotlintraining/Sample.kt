@@ -4,4 +4,4 @@ fun welcome() {
     println("welcome to ACCESS!")
 }
 
-// TODO: declare hello function
+// TODO: hello関数を実装してください

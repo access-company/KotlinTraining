@@ -5,26 +5,12 @@ Kotlin 研修のためのボイラープレートです。
 
 ## 本リポジトリの内容
 
-* Android Studio 3.1.1 を用いて新規プロジェクトを作成したもの
+* Android Studio 4.1.3 で動作確認済み
 * 設定内容は以下
   * Kotlin サポートを有効に
-  * API レベルは Android 6.0 以降 (`minSdkLevel 23`)を指定
+  * API レベルは Android 7.0 以降 (`minSdkLevel 24`) を指定
   * 初期アクティビティとして Blank Activity を指定
 * 初期 Activity は削除し、Sample クラス、SampleTest クラスを追加
-
-## 本リポジトリの意図
-
-* 各位の GitHub アカウントに fork して用いる想定
-  * 先述の各種設定を揃えるため
-  * 途中経過を適宜 push してもらい、メンターから進捗の確認などを行うため
-  * どんどん git/GitHub を使ってツールを手に馴染ませていくため
-
-## 使い方
-
-* まず、各位の GitHub アカウントに fork する
-* 各位のアカウントに fork した本リポジトリを、各位は clone する
-* 色々やって push する
-  * メンターは push された内容を見てふむふむ言ったり言わなかったりする
 
 ## 補足
 
