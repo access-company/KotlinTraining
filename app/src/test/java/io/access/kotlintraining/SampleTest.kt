@@ -16,6 +16,6 @@ class SampleTest {
 
     @Test
     fun testHello() {
-        // TODO: implement to call hello function
+        // TODO: hello関数を呼び出してください
     }
 }
